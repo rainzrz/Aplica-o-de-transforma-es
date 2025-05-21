@@ -44,7 +44,9 @@ include_directories(${glm_SOURCE_DIR})
 
 # Lista de exemplos/exercícios podem ser colocados aqui também
 set(EXERCISES
-    Vivencial/Triangulos    # <-- NOVO EXERCÍCIO AQUI
+    Vivencial/exercicio1
+    Vivencial/exercicio2
+    Vivencial/exercicio3    # <-- NOVO EXERCÍCIO AQUI
 )
 
 if (CMAKE_CXX_COMPILER_ID MATCHES "GNU|Clang")
