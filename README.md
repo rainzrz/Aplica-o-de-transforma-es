@@ -2,7 +2,16 @@
 
 Este repositório é baseado na estrutura do projeto PGCCHIB - Processamento Gráfico, fornecido pela disciplina de Processamento Gráfico.
 
-A atividade vivencial do dia 17 de maio foi implementada no arquivo `Triangulos.cpp`, localizado em `src/Vivencial`.
+A atividade vivencial do dia 20 de maio foi implementada nos arquivos `exercicio1.cpp`, `exercicio2.cpp` e `exercicio3.cpp` localizado em `src/Vivencial`.
+
+## exercicio1.cpp
+![image](https://github.com/user-attachments/assets/10233c7f-6c5c-4227-8613-c0c4a5057f31)
+
+## exercicio2.cpp
+![image](https://github.com/user-attachments/assets/0c192032-23c2-426b-8e8a-5f0de4192d76)
+
+## exercicio3.cpp
+![image](https://github.com/user-attachments/assets/ebea1509-d1b1-4467-9161-53bcd7e4c05c)
 
 ## 🛠️ Como compilar e rodar o projeto (PowerShell - Windows)
 Se quiser compilar e rodar o projeto do zero, siga os comandos abaixo:
